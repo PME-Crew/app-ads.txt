@@ -1742,3 +1742,4 @@ rubiconproject.com, 27130, RESELLER, 0bfd66d529a55807
 connekt.ai, 2852512, RESELLER
 bigo.sg, 23166005, DIRECT
 bigo.sg, 23165997, DIRECT
+bigo.sg, 23166019, DIRECT
